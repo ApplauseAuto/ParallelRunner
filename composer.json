@@ -1,5 +1,5 @@
 {
-    "name": "applauseauto/parallelrunner",
+    "name": "ApplauseAuto/ParallelRunner",
     "type": "library",
     "description": "Parallel runner extension for Behat",
     "keywords": ["behat", "bdd", "parallel", "runner"],
